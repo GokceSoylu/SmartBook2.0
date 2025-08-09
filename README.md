@@ -1,6 +1,6 @@
 # 📌 SmartBook 2.0
 
-##  Proje Hakkında
+##  📝 Proje Hakkında
 **SmartBook 2.0**, hizmet sağlayıcıların (kuaför, doktor, eğitmen vb.) ve müşterilerin kullanabileceği, tamamen **backend tabanlı** bir randevu yönetim sistemidir.
 
 Bu proje:
@@ -11,7 +11,7 @@ amacıyla geliştirilmiştir.
 
 ---
 
-##  Hedefler
+## 🙌🏻 Hedefler
 - **Local** ve **Docker** üzerinde çalışabilen, production-ready bir backend API oluşturmak  
 - Swagger UI ile dokümante edilmiş API sunmak  
 - GitHub’da **clean commit geçmişi**, README ve **deploy edilmiş demo linki** bulundurmak  
@@ -19,7 +19,7 @@ amacıyla geliştirilmiştir.
 
 ---
 
-##  Teknik Özellikler
+## 🛠️ Teknik Özellikler
 
 ### 1. Kullanıcı Yönetimi
 - Kayıt ve giriş (JWT access + refresh token)
@@ -58,7 +58,7 @@ amacıyla geliştirilmiştir.
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+## 👩🏻‍💻 Kullanılan Teknolojiler
 - **Java 17**
 - **Spring Boot 3.x**
 - **Spring Data JPA**
@@ -73,7 +73,7 @@ amacıyla geliştirilmiştir.
 
 ---
 
-##  Kurulum
+## 📦 Kurulum
 
 ### 1. Gereksinimler
 - Java 17+
